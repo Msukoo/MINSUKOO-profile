@@ -22,7 +22,7 @@
 </p>
 
 ### :balloon: Repositories
-+ [[Spring/escapeRoom-vSpring] eacape room website : Main potpolio](https://github.com/Msukoo/escapeRoom-vSpring)
++ [[Spring/escapeRoom-vSpring] Main portfolio : eacape room website](https://github.com/Msukoo/escapeRoom-vSpring)
 + [[Spring/admin-demo] admin website](https://github.com/Msukoo/admin-demo)
 + [[Spring Boot/JPA-testProject] JPA practice](https://github.com/Msukoo/JpaTestProject)
 + [[CSharp/mariadb-connection] mariadb connection for winform](https://github.com/Msukoo/cs_mariadb_connection)
