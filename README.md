@@ -18,12 +18,13 @@
 
 <h3 align="center">🛠 Tech blog 🛠</h3>
 <p align="center">
-  <a href="https://blog.naver.com/rnalsttnn2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
+  <a href="https://blog.naver.com/rnalsttnn2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a> click!
 </p>
 
 ### :balloon: Repositories
-+ [[Spring Boot/escape-vSpring] Main portfolio : eacape room website](https://github.com/Msukoo/escape-vSpring)
-+ [[Spring/admin-demo] admin website](https://github.com/Msukoo/admin-demo)
-+ [[Spring Boot/JPA-testProject] JPA practice](https://github.com/Msukoo/JpaTestProject)
-+ [[CSharp/mariadb-connection] mariadb connection for winform](https://github.com/Msukoo/cs_mariadb_connection)
++ [[Spring Boot/escape-vSpring] eacape room website](https://github.com/Msukoo/escape-vSpring)
 + [[Java/escapeRoom] eacape room website](https://github.com/Msukoo/escapeRoom)
++ [[Spring Boot/mqtt_subscribe] mqtt messageQ](https://github.com/Msukoo/mqtt_subscribe)
++ [[CSharp/mariadb-connection] mariadb connection for winform](https://github.com/Msukoo/cs_mariadb_connection)
++ [[Spring Boot/JPA-testProject] JPA practice](https://github.com/Msukoo/JpaTestProject)
+
