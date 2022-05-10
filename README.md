@@ -20,7 +20,8 @@
 
 <h3 align="center">🛠 Tech blog 🛠</h3>
 <p align="center">
-  <a href="https://blog.naver.com/rnalsttnn2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
+  <a href="https://blog.naver.com/rnalsttnn2">1<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="https://velog.io/@mnsukoo">2<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 </p>
 
 
