@@ -27,7 +27,11 @@
 
 <div align="center">
   
-               
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msukoo&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+    
+ <br>
+  
 <h5 align="center">:octocat: Once I've Used :octocat:</h5> 
  
 <p align="center">
@@ -49,7 +53,7 @@
 
   
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msukoo&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
   
 
   <br>
